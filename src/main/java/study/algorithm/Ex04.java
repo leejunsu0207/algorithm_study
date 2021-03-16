@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ex04 {
 
     // Quadratic
-    // 배열 x에 중복된 원소가 있는기 검사하는 함수
+    // 배열 x에 중복된 원소가 있는지 검사하는 함수
 
     boolean is_distinct(int n, int x[]){
         for (int i=0; i<n-1; i++) {
