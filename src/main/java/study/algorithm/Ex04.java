@@ -43,7 +43,7 @@ public class Ex04 {
             System.out.print(listData+",");
         }
         System.out.println();
-        System.out.println("↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ 배열에 들어간 데이터 ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑");
+        System.out.println("↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ 배열에 들어간 데이터 ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑");
         System.out.print("입력한 n번 만큼 중복검사한다. \n숫자입력 : ");
         selectNum = sc.nextInt();
 
